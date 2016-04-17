@@ -148,7 +148,7 @@ namespace spec
 				check = 1;
 			}
 
-
+			struct oddevennode *head = NULL;
 			struct oddevennode *oddnode = (head->next);
 			struct oddevennode *evennode = head;
 			
